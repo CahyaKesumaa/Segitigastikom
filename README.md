@@ -1,6 +1,5 @@
 # Segitigastikom
 tugas segitiga stikom
-
 #include <iostream>
 using namespace std;
 int main()
