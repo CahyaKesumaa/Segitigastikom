@@ -1,0 +1,2 @@
+# Segitigastikom
+tugas segitiga stikom
