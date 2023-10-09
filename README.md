@@ -1,5 +1,6 @@
 # Segitigastikom
 tugas segitiga stikom
+
 #include <iostream>
 using namespace std;
 int main()
@@ -16,8 +17,10 @@ int main()
   //rumus
   for (datar = baris; datar >= 1; datar--)
   {
+    
     for (turun = 1; turun <= datar; turun++)
     {
+    
       if (1==turun || turun==11 || turun==21)
       {
         cout<<"S";
@@ -53,8 +56,8 @@ int main()
       else if (9==turun || turun==19 || turun==29)
       {
         cout<<"L";
-      }         
-      else
+      }   
+      else     
       {
         cout<<"I";
       }
@@ -62,5 +65,6 @@ int main()
     }
     cout << endl;
   }
+  
   return 0;
 }
